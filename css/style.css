@@ -947,6 +947,7 @@ footer {
   }
   .services p {
     width: 100%;
+    padding: 0 10px;
   }
   .services div {
     width: 100%;
